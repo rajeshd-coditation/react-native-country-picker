@@ -72,7 +72,8 @@ export const getStyles = (darkTheme = true) => {
         },
         searchClose: {
             alignItems: "flex-end",
-            marginLeft: 10
+            marginLeft: 10,
+            width: 30, // AP - EKKD - 314
         },
         listNullContainer: {
             ...Styles.center,
