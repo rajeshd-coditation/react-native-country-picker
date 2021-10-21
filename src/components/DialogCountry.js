@@ -130,7 +130,6 @@ export const DialogCountry = (props) => {
             <View style={styles.search}>
                 <View style={[styles.textInputContainer, searchStyle]}>
                     <TextInput
-                        // autoFocus - AP - double tap removed
                         onChangeText={(text) => handleFilterChange(text)}
                         value={search}
                         placeholder={searchPlaceholder}
