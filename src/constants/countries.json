@@ -1,5 +1,12 @@
 [
 	{
+		"code": "  --",
+		"unicode": "  --",
+		"name": "Please Select",
+		"emoji": "  --",
+		"callingCode": "  --"
+	},
+	{
 		"code": "AD",
 		"unicode": "U+1F1E6 U+1F1E9",
 		"name": "Andorra",
