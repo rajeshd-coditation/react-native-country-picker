@@ -5,7 +5,8 @@ import {
     StatusBar,
     FlatList,
     TextInput,
-    Text
+    Text,
+    I18nManager
 } from 'react-native';
 import Fuse from 'fuse.js'
 import { Colors } from "../styles";
