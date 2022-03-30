@@ -68,7 +68,8 @@ export const getStyles = (darkTheme = true) => {
         },
         textInput: {
             padding: 10,
-            flex: 1
+            flex: 1,
+            textAlign : I18nManager.isRTL ? 'right' : 'left'
         },
         searchClose: {
             alignItems: "flex-end",
